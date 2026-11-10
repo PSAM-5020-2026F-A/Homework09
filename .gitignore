@@ -1,0 +1,8 @@
+.DS_S*
+__pycache__/
+data_utils.py
+image_utils.py
+*.pyc
+data/
+html/
+flowers*.tar.gz
